@@ -1,3 +1,1 @@
-<div><a href="#!main.html" onclick="fetchPage('main.html')">main</a></div>
-<div><a href="#!study.html" onclick="fetchPage('study.html')" style="color:black">study</a></div>
-<div><a href="#!english.html" onclick="fetchPage('english.html')">english</a></div>
+main, study, english
