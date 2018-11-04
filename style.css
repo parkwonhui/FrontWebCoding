@@ -1,0 +1,66 @@
+a{
+  color:gray;
+  text-decoration:none
+}
+
+#grid{
+  display:grid;
+  border-bottom: 1px solid gray;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  grid-template-columns: 1fr 1fr 1fr;
+    font-family: 'Nanum Gothic';
+}
+
+#contents{
+  margin : 20px;
+  text-align: center;
+  font-family: 'Nanum Gothic';
+}
+
+#contents a{
+  text-decoration:none
+}
+
+.textpre{
+  padding : 10px;
+}
+
+.button{
+  background-color : #32f290;
+  border : none;
+  color : white;
+  padding : 15px 32px;
+  text-align : center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+}
+
+#TodayWord
+{
+  padding : 20px;
+}
+
+.todoaddbutton{
+  display:inline;
+  margin:0;
+  background-color: none;
+  border-style: none;
+  padding:5px 5px;
+  width : 50px;
+}
+
+.todotextbox{
+  width:200px;
+  height:50px;
+}
+
+#TodoText{
+}
+#ToDoList
+{
+  background-color: red;
+  padding : 10px;
+}
